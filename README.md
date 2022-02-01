@@ -6,3 +6,4 @@ HTML
 CSS
 ## RESULTADO
 
+![image](https://user-images.githubusercontent.com/26825692/151903019-34d99f0c-71b8-412d-bff0-bd4307fa84f8.png)
